@@ -2,7 +2,7 @@
     <div class="nav">
         <router-link to="/">Home</router-link>
         <router-link to="/add-restuarant">Add Restuarant</router-link>
-        <router-link to="/update-restuarant">Update Restuarant</router-link>
+        <router-link to="/update-restuarant/:id">Update Restuarant</router-link>
         <router-link  @click="logout" to="">Logout</router-link>
 
     </div>

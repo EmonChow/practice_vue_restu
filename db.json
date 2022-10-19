@@ -131,6 +131,68 @@
       "password": "passwordddd",
       "name": "dddd",
       "id": 22
+    },
+    {
+      "email": "admin@example.com",
+      "password": "password",
+      "name": "",
+      "id": 23
+    },
+    {
+      "email": "admin@example.com",
+      "password": "password",
+      "name": "",
+      "id": 24
+    }
+  ],
+  "resturant": [
+    {
+      "name": "dd",
+      "address": "dddd",
+      "contact": 15254,
+      "id": 2
+    },
+    {
+      "name": "ddd",
+      "address": "ddd",
+      "contact": 444,
+      "id": 3
+    },
+    {
+      "name": "ddd",
+      "address": "dddd",
+      "contact": 565,
+      "id": 5
+    },
+    {
+      "name": "g",
+      "address": "ggg",
+      "contact": 275,
+      "id": 6
+    },
+    {
+      "name": "ddd",
+      "address": "dddswaw",
+      "contact": 526585,
+      "id": 7
+    },
+    {
+      "name": "ccc",
+      "address": "cccc",
+      "contact": 4,
+      "id": 8
+    },
+    {
+      "name": "gggg",
+      "address": "kij",
+      "contact": 55556,
+      "id": 9
+    },
+    {
+      "name": "MalEha Food store",
+      "address": "Jatrabari",
+      "contact": 1475322145,
+      "id": 10
     }
   ]
 }
